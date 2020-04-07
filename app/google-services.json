@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "719068249722",
+    "firebase_url": "https://winequality-1d50d.firebaseio.com",
+    "project_id": "winequality-1d50d",
+    "storage_bucket": "winequality-1d50d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719068249722:android:39c6523c608def340b05c3",
+        "android_client_info": {
+          "package_name": "com.example.vggananesh.wine_quality"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719068249722-h6738bui0qrmf51pmkjatvuvtp45rn7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqp65XuOMGYfHn-LJtm26oWNwf2NkQhZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719068249722-h6738bui0qrmf51pmkjatvuvtp45rn7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
